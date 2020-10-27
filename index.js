@@ -60,5 +60,3 @@ const isBalanced = (str) => {
     }
     return final
 }
-
-
